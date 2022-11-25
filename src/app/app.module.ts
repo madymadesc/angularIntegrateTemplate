@@ -10,6 +10,7 @@ import { LoaderComponent } from './component/loader/loader.component';
 import { CategoriesComponent } from './component/categories/categories.component';
 import { FeaturedComponent } from './component/featured/featured.component';
 import { BannerComponent } from './component/banner/banner.component';
+import { LatestComponent } from './component/latest/latest.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { BannerComponent } from './component/banner/banner.component';
     LoaderComponent,
     CategoriesComponent,
     FeaturedComponent,
-    BannerComponent
+    BannerComponent,
+    LatestComponent
   ],
   imports: [
     BrowserModule,
