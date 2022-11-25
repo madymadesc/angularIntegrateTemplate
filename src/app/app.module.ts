@@ -11,6 +11,8 @@ import { CategoriesComponent } from './component/categories/categories.component
 import { FeaturedComponent } from './component/featured/featured.component';
 import { BannerComponent } from './component/banner/banner.component';
 import { LatestComponent } from './component/latest/latest.component';
+import { BlogComponent } from './component/blog/blog.component';
+import { HomeComponent } from './home/home.component';
 
 @NgModule({
   declarations: [
@@ -22,7 +24,9 @@ import { LatestComponent } from './component/latest/latest.component';
     CategoriesComponent,
     FeaturedComponent,
     BannerComponent,
-    LatestComponent
+    LatestComponent,
+    BlogComponent,
+    HomeComponent
   ],
   imports: [
     BrowserModule,
