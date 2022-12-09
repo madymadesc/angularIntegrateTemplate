@@ -6,3 +6,7 @@ function greetings(name) {
     alert(`wellcome ${name}`);
     console.log("Mady ccc");
 }
+
+function salut(){
+    alert("salut ogani");
+}
