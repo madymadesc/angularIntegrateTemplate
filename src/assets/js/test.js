@@ -11,3 +11,7 @@ function greetings(name) {
 function salut(){
     alert("salut ogani");
 }
+
+function testOne(){
+    console.log("hello World");
+}
