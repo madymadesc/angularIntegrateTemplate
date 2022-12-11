@@ -18,3 +18,8 @@ function greetings(name) {
 
 var x = document.getElementById("myVarX");
 var y = document.getElementById("myVarY");
+function somme(x, y){
+    return x + y;
+}
+
+somme(5,10);
