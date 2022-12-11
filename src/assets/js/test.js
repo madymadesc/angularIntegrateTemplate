@@ -8,10 +8,13 @@ function greetings(name) {
 
 }
 // c'est un commentaire pour le test
-function salut(){
-    alert("salut ogani");
-}
+// function salut(){
+//     alert("salut ogani");
+// }
 
-function testOne(){
-    console.log("hello World");
-}
+// function testOne(){
+//     console.log("hello World");
+// }
+
+var x = document.getElementById("myVarX");
+var y = document.getElementById("myVarY");
